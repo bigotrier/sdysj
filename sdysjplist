@@ -24,7 +24,7 @@
           </array>
           <!-- required. the URL of the file to download.-->
           <key>url</key>
-          <string>http://dtdysj.85ido.com:8080/SDYSJ/static/iosTest/sdysj.ipa</string>
+          <string>https://dtdysj.85ido.com/SDYSJ/static/iosTest/sdysj.ipa</string>
         </dict>
         <!-- display-image: the icon to display during download.-->
         <dict>
@@ -34,7 +34,7 @@
          <key>needs-shine</key>
          <true/>
          <key>url</key>
-         <string>http://dtdysj.85ido.com:8080/SDYSJ/static/iosTest/57.png</string>
+         <string>https://dtdysj.85ido.com/SDYSJ/static/iosTest/57.png</string>
         </dict>
         <!-- full-size-image: the large 512x512 icon used by iTunes.-->
         <dict>
@@ -46,7 +46,7 @@
          <key>needs-shine</key>
          <true/>
          <key>url</key>
-         <string>http://dtdysj.85ido.com:8080/SDYSJ/static/iosTest/512.png</string>
+         <string>https://dtdysj.85ido.com/SDYSJ/static/iosTest/512.png</string>
         </dict>
       </array>
 <key>metadata</key>
